@@ -1,0 +1,81 @@
+#navbar{
+    font-family:Montserrat;
+}
+
+nav{
+    background-color:#0e112e;
+    padding:20px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+span{
+    height:100vh;
+    animation:light 4s infinite;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing:5px;
+}
+
+@keyframes light {
+    0%{
+        color:rgb(243, 79, 79);
+    }
+    50%{
+        color:white;
+    }
+    100%{
+        color:rgb(243, 79, 79);
+    }
+}
+
+span:nth-child(1){
+    animation-delay:200ms;
+}
+span:nth-child(2){
+    animation-delay:400ms;
+}
+span:nth-child(3){
+    animation-delay:600ms;
+}
+span:nth-child(4){
+    animation-delay:800ms;
+}
+span:nth-child(5){
+    animation-delay:1000ms;
+}
+span:nth-child(7){
+    animation-delay:1200ms;
+}
+span:nth-child(8){
+    animation-delay:1400ms;
+}
+span:nth-child(9){
+    animation-delay:1600ms;
+}
+span:nth-child(10){
+    animation-delay:1800ms;
+}
+span:nth-child(11){
+    animation-delay:2000ms;
+}
+span:nth-child(12){
+    animation-delay:2200ms;
+}
+span:nth-child(14){
+    animation-delay:2400ms;
+}
+span:nth-child(15){
+    animation-delay:2600ms;
+}
+span:nth-child(16){
+    animation-delay:2800ms;
+}
+span:nth-child(17){
+    animation-delay:3000ms;
+}
+span:nth-child(18){
+    animation-delay:3200ms;
+}
+

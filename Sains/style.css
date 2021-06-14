@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:rgb(243, 79, 79);
+}
+
+#copyright{
+    line-height:100px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 21px;
+}
+
+#copyright a{
+    color: rgb(122, 122, 122);
+}
+
+ol,ul{
+    padding: 0;
+    margin: 0 0 0px 25px;
+}
+
+footer{
+    position: relative;
+    background-color:#101650;
+    padding: 30px;
+    padding-bottom: 50px;
+    color: #fff;
+    line-height: 29px;
+    font-size: 20px;
+    height: 425px;
+}
+
+footer a{
+    color: #fff;
+}

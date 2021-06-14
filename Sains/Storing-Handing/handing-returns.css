@@ -1,0 +1,21 @@
+#handing-return{
+    position: relative;
+    padding: 100px;
+    padding-bottom: 50px;
+    color: #fff;
+    line-height: 29px;
+    font-size: 30px;
+}
+
+#handing-return .hr h4{
+    font-size: 27.5px;
+}
+
+#handing-return .hr p{
+    font-size: 20px;
+}
+
+#handing-return .hr ul li{
+    font-size: 20px;
+}
+

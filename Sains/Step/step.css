@@ -1,0 +1,17 @@
+#step{
+    position: relative;
+    background-color:white;
+    padding: 100px;
+    padding-bottom: 50px;
+    color: #101650;
+    line-height: 29px;
+    font-size: 20px;
+}
+
+#step h5,h3{
+    font-size: 30px;
+}
+
+#step p{
+    font-size: 25px;
+}
